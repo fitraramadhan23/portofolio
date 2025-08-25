@@ -1,6 +1,6 @@
-# 👋 Halo, Saya Fitra Ramadhan  
+# 👋 Halo, Saya M Fitra Ramadhan  
 
-Saya lulusan **Teknologi Rekayasa Komputer - Politeknik Caltex Riau** dengan fokus pada:
+Saya lulusan **Teknologi Rekayasa Komputer - Politeknik Caltex Riau** yang berfokus pada : 
 - 🌐 **Web Development (CodeIgniter, PHP, MySQL)**
 - 🌐 **Network Engineering (Cisco CCNA, MikroTik MTCNA)**
 - 🔐 **Cybersecurity (CyberOps Associate, Ethical Hacking Essentials, EHE – EC-Council)**
@@ -27,5 +27,5 @@ Saya lulusan **Teknologi Rekayasa Komputer - Politeknik Caltex Riau** dengan fok
 ---
 
 ## 📫 Kontak
-- ✉️ Email: fitrajames15@gmail.com  
-- 🌐 GitHub: [github.com/fitrajames15](https://github.com/fitrajames15)  
+- ✉️ Email: fitrakeren15@gmail.com
+- 🌐 GitHub: [github.com/fitraramadhan23](https://github.com/fitraramadhan23)  
